@@ -14,7 +14,6 @@
 # $3.5 for the second and third hours, and $2.5 for all the remaining hours.
 
 
-
 class ParkingSpot:
     def __init__(self, spot_type, is_occupied, spot_id):
         self.spot_type = spot_type
